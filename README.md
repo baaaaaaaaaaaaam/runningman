@@ -50,6 +50,9 @@ TV프로그램 [런닝맨]을 모티브로 만든 어플입니다.
 ![image](https://user-images.githubusercontent.com/57000871/96536285-ad994c80-12ce-11eb-9119-abcd605ddfa8.png)
 
 
+
+# 영상 링크
+
 # 프로젝트 참여자
 
 ● https://github.com/seulgikim2019
